@@ -1,30 +1,30 @@
 {
   "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C": {
     "name": "UniV3: WETH-USDC",
-    "rewardAPR": 0
+    "rewardAPR": 72.8
   },
   "0x01E371c500C49beA2fa985334f46A8Dc906253Ea": {
     "name": "UniV3: WBTC-USDC",
-    "rewardAPR": 0
+    "rewardAPR": 56.1
   },
   "0x708790D732c5886D56b0cBBEd7b60ABF47848FaA": {
     "name": "UniV3: ARB-USDC",
-    "rewardAPR": 0
+    "rewardAPR": 122.8
   },
   "0x3D2692Bb38686d0Fb9B1FAa2A3e2e5620EF112A9": {
     "name": "UniV3: BOOP-WETH",
-    "rewardAPR": 0.5
+    "rewardAPR": 21.7
   },
   "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639": {
     "name": "Camelot: USDC-DAI",
-    "rewardAPR": 0
+    "rewardAPR": 3.2
   },
    "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b": {
     "name": "Camelot: USDC-USDC.e",
-    "rewardAPR": 0
+    "rewardAPR": 9.7
   },
    "0x0B48540e214bc196e1D0954834876691fE19068D": {
     "name": "Camelot: USDC.e-USDT",
-    "rewardAPR": 0
+    "rewardAPR": 11.3
   }
 }
