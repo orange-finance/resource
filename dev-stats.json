@@ -1,0 +1,38 @@
+{
+  "0x77826C01303Bed9DE74d275dEA1179ed36D7455F": {
+    "name": "UniV3: WETH-USDC",
+    "rewardAPR": 0
+  },
+  "0x853506E93F24105820F353215793ca84993e9d2A": {
+    "name": "UniV3: WBTC-USDC",
+    "rewardAPR": 0
+  },
+  "0x677285525032F9F484F742d35bC51B62b0370284": {
+    "name": "UniV3: ARB-USDC",
+    "rewardAPR": 0
+  },
+  "0x7cDAC80d07c135c87634a79E78042f8dAAbb0DC8": {
+    "name": "UniV3: BOOP-WETH",
+    "rewardAPR": 0.5
+  },
+  "0x2215EdeF1D5bD770909f049A8B8C7DD4D93708d1": {
+    "name": "UniV3: WETH-USDC No swap strategy",
+    "rewardAPR": 0
+  },
+  "0x738d72b8ed405de32b9bc74065d119534018c6d7": {
+    "name": "Camelot: wstETH-WETH",
+    "rewardAPR": 0
+  },
+  "0x4FF5Ce3456Ed2160B22afD9c4aeaF4Ce3C46A5F7": {
+    "name": "Pancake: WETH-USDC",
+    "rewardAPR": 0.5
+  },
+  "0x311c79F1e1BB2Da477a312e9137e86fDe82a905C": {
+    "name": "Pancake: WBTC-USDC",
+    "rewardAPR": 0.5
+  },
+  "0x2e44e5c3C26705cbce48aE998AE8361Bbb354214": {
+    "name": "Pancake: ARB-USDC",
+    "rewardAPR": 0.5
+  }
+}
