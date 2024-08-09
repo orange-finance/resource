@@ -13,11 +13,11 @@
   },
   "0x3D2692Bb38686d0Fb9B1FAa2A3e2e5620EF112A9": {
     "name": "UniV3: BOOP-WETH",
-    "rewardAPR": 95.56
+    "rewardAPR": 78.96
   },
   "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639": {
     "name": "Camelot: USDC-DAI",
-    "rewardAPR": 37.17
+    "rewardAPR": 27.68
   },
    "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b": {
     "name": "Camelot: USDC-USDC.e",
@@ -33,14 +33,14 @@
   },
   "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0": {
     "name": "Pancake: WETH-USDC",
-    "rewardAPR": 84.04
+    "rewardAPR": 57.95
   },
   "0x22dd31a495CafB229131A16C54a8e5b2f43C1162": {
     "name": "Pancake: WBTC-USDC",
-    "rewardAPR": 21.02
+    "rewardAPR": 39.62
   },
   "0xE32132282D181967960928b77236B3c472d5f396": {
     "name": "Pancake: ARB-USDC",
-    "rewardAPR": 79.76
+    "rewardAPR": 49.35
   }
 }
