@@ -1,4 +1,28 @@
 {
+  "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639": {
+    "name": "Camelot: USDC-DAI",
+    "rewardAPR": 0
+  },
+  "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b": {
+    "name": "Camelot: USDC-USDC.e",
+    "rewardAPR": 0
+  },
+  "0x0B48540e214bc196e1D0954834876691fE19068D": {
+    "name": "Camelot: USDC.e-USDT",
+    "rewardAPR": 0
+  },
+  "0x738d72b8ed405de32b9bc74065d119534018c6d7": {
+    "name": "Camelot: wstETH-WETH",
+    "rewardAPR": 0
+  },
+  "0xCF3cC7EF67C24cB2B8536533A0376f1f0F62aF5F": {
+    "name": "Camelot: weETH-WETH",
+    "rewardAPR": 0
+  },
+  "0x5F5953f974F47f3cbCb60A34AD713eB8786861E2": {
+    "name": "Camelot: ezETH-WETH",
+    "rewardAPR": 0
+  },
   "0x77826C01303Bed9DE74d275dEA1179ed36D7455F": {
     "name": "UniV3: WETH-USDC",
     "rewardAPR": 0
@@ -19,10 +43,6 @@
     "name": "UniV3: WETH-USDC No swap strategy",
     "rewardAPR": 0
   },
-  "0x738d72b8ed405de32b9bc74065d119534018c6d7": {
-    "name": "Camelot: wstETH-WETH",
-    "rewardAPR": 0
-  },
   "0x4FF5Ce3456Ed2160B22afD9c4aeaF4Ce3C46A5F7": {
     "name": "Pancake: WETH-USDC",
     "rewardAPR": 0.5
@@ -33,6 +53,14 @@
   },
   "0x2e44e5c3C26705cbce48aE998AE8361Bbb354214": {
     "name": "Pancake: ARB-USDC",
+    "rewardAPR": 0.5
+  },
+  "0xee39236D16721094bCf3DC934C3F59aB5754e344": {
+    "name": "Sushi: WETH-USDC",
+    "rewardAPR": 0.5
+  },
+  "0x7D1f14d4cB116e698290B5E9520377A59a7A030B": {
+    "name": "Sushi: WBTC-USDC",
     "rewardAPR": 0.5
   }
 }
