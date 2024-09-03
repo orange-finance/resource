@@ -53,10 +53,10 @@
   },
   "0x49F60f02B45087ed99EcC4dE63D0337db0d0c6BF": {
     "name": "Sushi: WETH-USDC",
-    "rewardAPR": 342.36
+    "rewardAPR": 288.91
   },
   "0x5bb109E834A4e4c5422526f0f3d42783031BA80d": {
     "name": "Sushi: WBTC-USDC",
-    "rewardAPR": 129.64
+    "rewardAPR": 134.13
   }
 }
