@@ -41,15 +41,15 @@
   },
   "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0": {
     "name": "Pancake: WETH-USDC",
-    "rewardAPR": 56.93
+    "rewardAPR": 46.09
   },
   "0x22dd31a495CafB229131A16C54a8e5b2f43C1162": {
     "name": "Pancake: WBTC-USDC",
-    "rewardAPR": 49.5
+    "rewardAPR": 54.74
   },
   "0xE32132282D181967960928b77236B3c472d5f396": {
     "name": "Pancake: ARB-USDC",
-    "rewardAPR": 76.06
+    "rewardAPR": 58.77
   },
   "0x49F60f02B45087ed99EcC4dE63D0337db0d0c6BF": {
     "name": "Sushi: WETH-USDC",
