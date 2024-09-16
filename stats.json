@@ -37,19 +37,19 @@
   },
   "0x3D2692Bb38686d0Fb9B1FAa2A3e2e5620EF112A9": {
     "name": "UniV3: BOOP-WETH",
-    "rewardAPR": 78.13
+    "rewardAPR": 0
   },
   "0x5f6D5a7e8eccA2A53C6322a96e9a48907A8284e0": {
     "name": "Pancake: WETH-USDC",
-    "rewardAPR": 17.69
+    "rewardAPR": 0
   },
   "0x22dd31a495CafB229131A16C54a8e5b2f43C1162": {
     "name": "Pancake: WBTC-USDC",
-    "rewardAPR": 34.38
+    "rewardAPR": 0
   },
   "0xE32132282D181967960928b77236B3c472d5f396": {
     "name": "Pancake: ARB-USDC",
-    "rewardAPR": 26.16
+    "rewardAPR": 0
   },
   "0x49F60f02B45087ed99EcC4dE63D0337db0d0c6BF": {
     "name": "Sushi: WETH-USDC",
