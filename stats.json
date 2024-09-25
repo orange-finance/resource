@@ -1,11 +1,11 @@
 {
   "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639": {
     "name": "Camelot: USDC-DAI",
-    "rewardAPR": 22.7
+    "rewardAPR": 0
   },
    "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b": {
     "name": "Camelot: USDC-USDC.e",
-    "rewardAPR": 1.4
+    "rewardAPR": 0
   },
    "0x0B48540e214bc196e1D0954834876691fE19068D": {
     "name": "Camelot: USDC.e-USDT",
