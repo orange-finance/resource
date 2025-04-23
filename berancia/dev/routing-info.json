@@ -1,0 +1,12 @@
+{
+  "0x5A553091990CACff0809A2F2E33fAF498a6892FA": [
+    {
+      "name": "CURRENT ROUTE",
+      "routes": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "apr": 126
+    }
+  ]
+}
