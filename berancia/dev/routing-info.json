@@ -1,12 +1,15 @@
 {
   "0xF76eB0e2672824E2690aD2f9FC831F1fD000C395": [
     {
-      "name": "CURRENT ROUTE",
-      "routes": {
+      "protocol": {
         "name": "Infrared",
         "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
       },
-      "apr": 126
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Earning",
+      "isCurrent": true
     }
   ]
 }
