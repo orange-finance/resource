@@ -66,7 +66,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "Live",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "protocol": {
@@ -88,7 +88,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -123,7 +123,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "Live",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "protocol": {
@@ -156,7 +156,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
