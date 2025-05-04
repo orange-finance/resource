@@ -8,7 +8,7 @@
       "bgtType": "iBGT",
       "apr": "TBD",
       "apy": "TBD",
-      "point": "Earning",
+      "point": "Live",
       "isCurrent": true
     },
     {
@@ -19,7 +19,7 @@
       "bgtType": "LBGT",
       "apr": "TBD",
       "apy": "TBD",
-      "point": "-",
+      "point": "Live",
       "isCurrent": false
     },
     {
@@ -30,7 +30,7 @@
       "bgtType": "yBGT",
       "apr": "TBD",
       "apy": "TBD",
-      "point": "On going",
+      "point": "-",
       "isCurrent": false
     },
     {
