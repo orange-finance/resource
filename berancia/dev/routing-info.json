@@ -9,7 +9,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "Live",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -31,7 +31,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "protocol": {
