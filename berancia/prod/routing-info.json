@@ -31,7 +31,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -88,7 +88,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -145,7 +145,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -202,7 +202,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -259,7 +259,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -316,7 +316,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
@@ -373,7 +373,7 @@
       "apr": "TBD",
       "apy": "TBD",
       "point": "-",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "protocol": {
