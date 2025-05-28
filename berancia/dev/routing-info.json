@@ -1,4 +1,39 @@
 {
+  "0xF76eB0e2672824E2690aD2f9FC831F1fD000C395": [
+    {
+      "protocol": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berapaw",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berapaw-logo.svg"
+      },
+      "bgtType": "LBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Bearn",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/bearn-logo.svg"
+      },
+      "bgtType": "yBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": true
+    }
+  ],
   "0x40540b9CE95EBdbBcbfd88ceB40a183B20a57fd7": [
     {
       "protocol": {
@@ -342,6 +377,234 @@
     }
   ],
   "0x51639c7b0A8e20092Bf85F4c7eed74bF933972cC": [
+    {
+      "protocol": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berapaw",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berapaw-logo.svg"
+      },
+      "bgtType": "LBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Bearn",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/bearn-logo.svg"
+      },
+      "bgtType": "yBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": true
+    },
+    {
+      "protocol": {
+        "name": "Stride",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/stride-logo.svg"
+      },
+      "bgtType": "stBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berahub",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berahub-logo.svg"
+      },
+      "bgtType": "BGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    }
+  ],
+  "0x3960DFdbDb82b67D31CD490aA4d0D7B3DF2087Ea": [
+    {
+      "protocol": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berapaw",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berapaw-logo.svg"
+      },
+      "bgtType": "LBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Bearn",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/bearn-logo.svg"
+      },
+      "bgtType": "yBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": true
+    },
+    {
+      "protocol": {
+        "name": "Stride",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/stride-logo.svg"
+      },
+      "bgtType": "stBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berahub",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berahub-logo.svg"
+      },
+      "bgtType": "BGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    }
+  ],
+  "0xE5A5Cbc42aE849a3780Ec847184Fd9a7ae3F56A5": [
+    {
+      "protocol": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berapaw",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berapaw-logo.svg"
+      },
+      "bgtType": "LBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Bearn",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/bearn-logo.svg"
+      },
+      "bgtType": "yBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": true
+    },
+    {
+      "protocol": {
+        "name": "Stride",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/stride-logo.svg"
+      },
+      "bgtType": "stBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berahub",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berahub-logo.svg"
+      },
+      "bgtType": "BGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    }
+  ],
+  "0x585ad5BcD7cC28dAdb3BDd79782D14513171f760": [
+    {
+      "protocol": {
+        "name": "Infrared",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/infrared-logo.svg"
+      },
+      "bgtType": "iBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berapaw",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berapaw-logo.svg"
+      },
+      "bgtType": "LBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "Live",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Bearn",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/bearn-logo.svg"
+      },
+      "bgtType": "yBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": true
+    },
+    {
+      "protocol": {
+        "name": "Stride",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/stride-logo.svg"
+      },
+      "bgtType": "stBGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    },
+    {
+      "protocol": {
+        "name": "Berahub",
+        "logoUrl": "https://raw.githubusercontent.com/orange-finance/resource/main/assets/berancia/berahub-logo.svg"
+      },
+      "bgtType": "BGT",
+      "apr": "TBD",
+      "apy": "TBD",
+      "point": "-",
+      "isCurrent": false
+    }
+  ],
+  "0x42dc43875401b2BA1db58be240A06E2e834BA07D": [
     {
       "protocol": {
         "name": "Infrared",
